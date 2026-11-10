@@ -25,7 +25,7 @@
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "drizzle-orm": "^0.36.2",
-    "express": "^4.21.1",
+    "express": "^4.22.3",
     "uuid": "^11.0.3"
   },
   "prettier": {
